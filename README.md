@@ -1,8 +1,4 @@
-![外卖神券天天领](https://p0.meituan.net/dptakeaway/11b0b51183806e09f55a530fc0dd0409328863.jpg)
 
-# 🧧【美团】外卖神券天天领
-
-![workflow](https://img.shields.io/github/workflow/status/vv314/actions-mtz-coupons/%E9%A2%86%E7%BA%A2%E5%8C%85?label=%E9%A2%86%E7%BA%A2%E5%8C%85&logo=github%20actions&style=flat) ![release](https://img.shields.io/github/v/release/vv314/actions-mtz-coupons) ![update](https://img.shields.io/github/last-commit/vv314/actions-mtz-coupons/main?label=update) ![fork](https://img.shields.io/github/forks/vv314/actions-mtz-coupons)
 
 外卖神券天天领，超值红包享不停；以自动化的方式领取美团红包。
 
